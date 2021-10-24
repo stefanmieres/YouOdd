@@ -63,3 +63,17 @@ code[class*="language-"],
     word-break: break-all;
     word-wrap: break-word;
 }
+.logoFont{
+    font-family: 'Racing Sans One', cursive;
+}
+
+/* Adding the bold to the numbers */
+
+.odd{
+    font-weight: 100;
+}
+
+.even{
+    font-weight: bold;
+    font-size: large;
+}
